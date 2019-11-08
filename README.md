@@ -1,5 +1,5 @@
 # ik-ccd
-![alt text](https://imgur.com/a/8gjyhw9)
+![Imgur](https://imgur.com/0iVokkO.jpg)
 ## About
 The inverse kinematics problem is an age old problem which many mathematicians have tried to solve. There is no exact solution to this problem, but there are many approximations. Calculation of coordinates when you have a given length of a joint along with an angle is easy, but calculating the needed angle to maneuver this joint to a certain coordinate is not. 
 

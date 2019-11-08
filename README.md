@@ -11,6 +11,7 @@ With the instatiation of our arm class, we can pass along some parameters if des
 
 * Pass `l = np.array([l1, l2, l3])` where l1, l2 and l3, are the lengths of the joints to alter the default length values
 * Pass `angles = np.array([t1, t2, t3])` where t1, t2 and t3 are the angles of respective joints in radians.
+* Alter `newPoint = np.array([x, y])` where x and y are the coordinates of the desired coordinate to maneuver to.
 
 ## Installation 
 This program can simply be run by executing the plot.py file, only dependencies are numpy and matplotlib and the ccd.py file.
